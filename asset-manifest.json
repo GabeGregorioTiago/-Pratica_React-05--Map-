@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-Pratica_React-05--Map-/static/css/main.e6c13ad2.css",
+    "main.js": "/-Pratica_React-05--Map-/static/js/main.0a2d5f1c.js",
+    "static/js/787.3eb47824.chunk.js": "/-Pratica_React-05--Map-/static/js/787.3eb47824.chunk.js",
+    "index.html": "/-Pratica_React-05--Map-/index.html",
+    "main.e6c13ad2.css.map": "/-Pratica_React-05--Map-/static/css/main.e6c13ad2.css.map",
+    "main.0a2d5f1c.js.map": "/-Pratica_React-05--Map-/static/js/main.0a2d5f1c.js.map",
+    "787.3eb47824.chunk.js.map": "/-Pratica_React-05--Map-/static/js/787.3eb47824.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0a2d5f1c.js"
+  ]
+}
